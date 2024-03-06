@@ -1,7 +1,7 @@
 # Welcome to Conor's GitHub Profile 👋
 
 ## About Me
-Hello there! I'm Conor, aspiring software engineer passionate about crafting solutions and building robust software. My journey in the world of coding began solving problems in Python in a Finance role before going back to college to study Computer Science.
+Hello there! I'm Conor, aspiring software engineer passionate about crafting solutions and building robust software. My journey in the world of coding began solving problems in Python in a Finance role before going back to college to study Software Development and Computer Science.
 
 ## 🚀 Skills
 Languages: I'm proficient in Python and Java with a focus on Python.
