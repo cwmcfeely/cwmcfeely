@@ -1,13 +1,12 @@
 # Welcome to Conor's GitHub Profile 👋
 
 ## About Me
-Hello there! I'm Conor, aspiring software engineer passionate about crafting solutions and building robust software. My journey in the world of coding began solving problems in Python in a Finance role before going back to college to study Software Development and Computer Science.
+Hello there! I'm Conor, aspiring software engineer passionate about problem solving and building software. My journey in the world of coding began solving problems in VBA, Crystal Reports and Python in a Finance role before going back to college to study Software Development and Computer Science.
 
 ## 🚀 Skills
-Languages: I'm proficient in Python and Java with a focus on Python.
-Databases: Comfortable working with MySQL, MariaDB, Oracle and MongoDB
-Version Control: Well-versed in Git, Perforce and GitHub for collaborative development.
-Problem Solving: A problem solver at heart, I enjoy tackling complex challenges and finding elegant solutions.
+Languages: I'm proficient in Python, with experience using C# and Java.
+Databases: Comfortable working with MySQL, MariaDB, Oracle and MongoDB.
+Version Control: Gitlab, Perforce and GitHub for collaborative development.
 
 ## 🛠️ Projects
 Here are some of the projects I've been working on:
@@ -20,6 +19,3 @@ Here are some of the projects I've been working on:
 
 ## 🤝 Let's Connect
 I'm always open to collaborations and discussions. If you have a project idea, want to discuss a particular technology, or just chat about coding, feel free to reach out! Connect with me on [LinkedIn](https://www.linkedin.com/in/cwmcfeely/)
-
-
-## Happy coding! 🚀
